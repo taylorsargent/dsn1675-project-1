@@ -48,7 +48,7 @@ h1 {
 p {
   font-size: 16px;
   line-height: 1.4;
-  padding: 0.75em;
+  padding: 0.5em;
 }
 
 .social {
@@ -62,7 +62,7 @@ p {
 }
 
 .social-icons {
-  padding: 0;
+  padding-top: 0;
 }
 
 footer {
