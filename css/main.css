@@ -66,6 +66,16 @@ p {
   text-align: center;
 }
 
+.phone {
+  text-decoration: none;
+  color: white;
+}
+
+.email {
+  text-decoration: none;
+  color: white;
+}
+
 footer {
   background-color: black;
   margin: 0;
@@ -74,6 +84,5 @@ footer {
 
 footer p {
   color: white;
-  padding: 1em;
   font-size: 14px;
 }
