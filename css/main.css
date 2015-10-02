@@ -84,7 +84,7 @@ footer p {
   color: white;
 }
 
-@media only screen and (min-width: 455px) {
+@media only screen and (min-width: 28.5em) {
 
   html {
     font-size: 110%;
@@ -109,7 +109,7 @@ footer p {
 
 }
 
-@media only screen and (min-width: 650px) {
+@media only screen and (min-width: 40.5em) {
 
   html {
     font-size: 120%;
@@ -140,7 +140,7 @@ footer p {
 
 }
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 90em) {
 
   body {
     border: black 1px solid;
