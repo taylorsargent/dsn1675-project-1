@@ -207,5 +207,11 @@ footer p {
   footer p {
     color: white;
   }
+}
 
+@media print {
+
+.social icons {
+  display: none;
+}
 }
