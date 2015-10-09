@@ -217,4 +217,9 @@ footer p {
 .social icons {
   display: none;
 }
+
+body {
+  width: 3.5in;
+  height: 2in;
+}
 }
