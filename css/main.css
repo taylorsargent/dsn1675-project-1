@@ -214,16 +214,62 @@ footer p {
 
 @media print {
 
-.social icons {
+.social-icons {
   display: none;
 }
 
 body {
   width: 3.5in;
   height: 2in;
+  border: 1px dashed black;
+  margin: 0;
+  padding: 0;
 }
 
 p {
   display: none;
 }
+
+.image {
+  width: 2in;
+  height: 2in;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+.image-color {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size:1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+footer p {
+  display: inline-block;
+  font-size: 0.5em;
+  float: left;
+  color: black;
+}
+
+footer p i {
+  display: block;
+}
+
+.phone {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+}
+
+.email {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+}
+
 }
