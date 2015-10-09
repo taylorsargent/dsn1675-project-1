@@ -52,16 +52,19 @@ p {
 .social {
   display: inline-block;
   width: 30%;
+  border: 0;
 }
 
 .social img {
   display: inline-block;
   width: 100%;
+  border: 0;
 }
 
 .social-icons {
   padding-top: 0;
   text-align: center;
+  border: 0;
 }
 
 .phone {
