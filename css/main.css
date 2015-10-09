@@ -222,4 +222,8 @@ body {
   width: 3.5in;
   height: 2in;
 }
+
+p {
+  display: none;
+}
 }
